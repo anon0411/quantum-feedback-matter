@@ -2,7 +2,7 @@
 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo..svg)](https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15266124.svg)](https://doi.org/10.5281/zenodo.15266124)
 ![Topics: quantum-circuit, feedback, cohesion, functional-material, PiTer](https://img.shields.io/badge/topics-quantum--circuit%2C%20feedback%2C%20cohesion%2C%20functional--material%2C%20PiTer-blue)
 
 # QUANTUM-FEEDBACK-MATTER

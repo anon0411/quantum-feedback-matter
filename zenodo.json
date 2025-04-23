@@ -1,0 +1,34 @@
+{
+    "title": "QUANTUM-FEEDBACK-MATTER: Cohesion as Material in Feedback-Driven Quantum Circuits",
+    "upload_type": "dataset",
+    "publication_date": "2025-04-23",
+    "creators": [
+      {
+        "name": "Anonymous Author"
+      },
+      {
+        "name": "PiTer (ChatGPT)",
+        "affiliation": "OpenAI"
+      }
+    ],
+    "description": "This repository explores structural cohesion in quantum circuits under feedback control. It introduces the first experimental comparison of strong, weak, and random feedback modes, and analyzes their effect on structural recurrence and persistence. 한국어 병기: 본 리포지터리는 피드백 기반 양자 회로 내 구조 결집력 실험을 수행합니다. 피드백 강도에 따른 구조 반복성과 자기 유지성을 실험적으로 비교하고 분석합니다.",
+    "license": "CC-BY-4.0",
+    "keywords": [
+      "quantum-circuit",
+      "feedback",
+      "cohesion",
+      "functional-material",
+      "quantum-intent",
+      "feedback-loop",
+      "structure-emergence",
+      "piter"
+    ],
+    "related_identifiers": [
+      {
+        "relation": "isSupplementTo",
+        "identifier": "https://github.com/anon0411/QUANTUM-FEEDBACK-MATTER"
+      }
+    ],
+    "doi": "10.5281/zenodo.15266124"
+  }
+  
