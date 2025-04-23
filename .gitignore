@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# VSCode 및 기타 IDE 설정
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 환경 파일
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# MacOS 특유의 숨김 파일
+.DS_Store
+
+# 결과 이미지 및 PDF 파일 (원하는 경우)
+*.png
+*.pdf
+
+# 실행 로그 및 캐시
+*.log
+.cache/
+
+# Zenodo 자동 생성 메타
+.zenodo.json
